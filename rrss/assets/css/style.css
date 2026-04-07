@@ -1,0 +1,32 @@
+h1 {
+    color :blue;
+    font-family: 'roboto';
+}
+p {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: rgb(40, 162, 193);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+.caja {
+    width: 300px;
+    height: 300px;
+    background-color: green;
+}
+.caja img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+.nombre-red{
+    font-size: 10px;
+    color: black;
+
+}
